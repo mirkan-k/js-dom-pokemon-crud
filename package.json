@@ -1,7 +1,7 @@
 {
   "name": "js-dom-pokemon-crud",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Use a client library from the browser to send HTTP requests to a local REST API\r - Explain and use the Fetch API to consume data from an API and update the DOM\r - Explain and apply the CRUD pattern in a simple frontend app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
